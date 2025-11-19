@@ -72,3 +72,4 @@ demo.launch(share=True, server_port=int(os.environ['PORT4']))
 <img width="1632" height="640" alt="gen ai ex 05pic" src="https://github.com/user-attachments/assets/1e56d703-a4f0-452b-9147-a9d92ee258ba" />
 
 ### RESULT:
+Thus, developed an NER prototype application with user interaction and evaluation features, using a fine-tuned BART model deployed through the Gradio framework.
