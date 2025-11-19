@@ -68,5 +68,7 @@ demo.launch(share=True, server_port=int(os.environ['PORT4']))
 
 ```
 ### OUTPUT:
-"C:\MOVIES\gen ai ex 05pic.png"
+
+<img width="1632" height="640" alt="gen ai ex 05pic" src="https://github.com/user-attachments/assets/1e56d703-a4f0-452b-9147-a9d92ee258ba" />
+
 ### RESULT:
