@@ -68,5 +68,5 @@ demo.launch(share=True, server_port=int(os.environ['PORT4']))
 
 ```
 ### OUTPUT:
-"C:\Users\admin\OneDrive\Pictures\gen ai ex 05pic.png"
+"C:\MOVIES\gen ai ex 05pic.png"
 ### RESULT:
